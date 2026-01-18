@@ -20,3 +20,8 @@ The results matched my prediction.
 - isEven(7) returned false
 
 The function worked as expected.
+#4 isOdd(n)
+- isOdd(3) returned true
+- isOdd(10) returned false
+
+The results matched my prediction.
