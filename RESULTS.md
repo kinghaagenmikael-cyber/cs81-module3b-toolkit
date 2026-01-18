@@ -24,4 +24,9 @@ The function worked as expected.
 - isOdd(3) returned true
 - isOdd(10) returned false
 
-The results matched my prediction.
+#5 The results matched my prediction.
+multiply(a, b)
+- multiply(3, 4) returned 12
+- multiply(5, 0) returned 0
+
+The function behaved as expected.
