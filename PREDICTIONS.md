@@ -10,3 +10,5 @@ I predict that this function will return the number multiplied by itself.
 I predict that this function will return true if the number is even and false if it is odd.
 #4 isOdd(n)
 I predict that this function will return true if the number is odd and false if it is even.
+#5 multiply(a, b)
+I predict that this function will return the product of the two numbers.
