@@ -6,3 +6,7 @@ function double(n) {
 function square(n) {
   return n * n;
 }
+// Squares a number
+function square(n) {
+  return n * n;
+}
