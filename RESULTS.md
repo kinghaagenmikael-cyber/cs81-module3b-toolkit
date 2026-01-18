@@ -15,3 +15,8 @@ The results matched my prediction.
 - square(3) returned 9
 
 The results matched my prediction.
+#3 isEven(n)
+- isEven(4) returned true
+- isEven(7) returned false
+
+The function worked as expected.
