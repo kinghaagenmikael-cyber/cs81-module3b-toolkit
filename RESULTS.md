@@ -10,3 +10,8 @@ The function worked as expected.
 - square(2) returned 4
 
 The results matched my prediction.
+#2 square(n)
+- square(5) returned 25
+- square(3) returned 9
+
+The results matched my prediction.
